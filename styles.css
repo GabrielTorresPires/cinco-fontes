@@ -1,0 +1,95 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+ body {
+
+    background-color: rgb(13, 27, 27);
+
+ }
+
+p {
+
+    font-size: 20px;
+    color: chartreuse;
+    text-align: justify;
+    
+
+}
+
+#titulo {
+
+    font-size: 40px;
+    color: coral;
+    text-align: center;
+    text-decoration: underline;
+
+
+}
+
+ .nomeFonte {
+    font-size: 30px;
+    color: deeppink;
+    text-align: center;
+ }
+
+
+ h2 {
+    font-family: 'Bree Serif', serif;
+ }
+
+ #primeiroParagrafo {
+
+    font-family: 'Bree Serif', serif;
+
+ }
+
+ h3 {
+
+    font-family: 'Anton', sans-serif;
+
+ } 
+
+ #segundoParagrafo {
+
+    font-family: 'Anton', sans-serif;
+
+ }
+
+ h4 {
+
+    font-family: 'Lobster Two', cursive;
+
+ }
+
+ #terceiroParagrafo {
+
+    font-family: 'Lobster Two', cursive;
+
+ }
+
+ h5 {
+
+    font-family: 'Reenie Beanie', cursive;
+
+ }
+
+ #quartoParagrafo {
+
+    font-family: 'Reenie Beanie', cursive;
+
+ }
+
+ h6 {
+
+    font-family: 'Major Mono Display', monospace;
+
+ }
+
+ #quintoParagrafo {
+    
+    font-family: 'Major Mono Display', monospace;
+
+ }
